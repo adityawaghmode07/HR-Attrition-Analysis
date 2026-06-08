@@ -206,7 +206,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Author:** [Your Name]  
 **GitHub:** [adityawaghmode07](https://github.com/adityawaghmode07)  
-**Email:** [Your Email]
+**Email:** [waghmodeaditya27@gmail.com]
 
 For questions or feedback, please open an issue or contact the project maintainer.
 
